@@ -1,0 +1,50 @@
+.header{
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size:30px;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 5px 10px gray;
+    position: fixed;
+    top: 0;
+}
+i{
+    width: 20px;
+    height: 20px;
+    color: white;
+    margin: 20px;
+    margin-top:15px;
+}
+.footer{
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size:20px;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 10px gray;
+    position: fixed;
+    bottom: 0;
+}
+.choose{
+    width: 100%;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    margin: 50px auto;
+    box-shadow: 5px 5px 10px gray;
+    cursor: pointer;
+}
+

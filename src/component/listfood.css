@@ -1,0 +1,8 @@
+.list{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    overflow: hidden;
+    padding: 40px;
+    text-align: center;
+}
